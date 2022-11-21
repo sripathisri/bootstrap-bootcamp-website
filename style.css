@@ -4,6 +4,36 @@ body::before {
   height: 60px;
 }
 
+.navbar-dark1{
+  background-color:rgb(255, 255, 255);
+}
+
+.a1{
+  color: rgb(0, 0, 0);
+  font-weight: 500;
+  
+}
+
+.nav{
+  color: black;
+}
+.nav:hover{
+  color: rgb(45, 62, 249);
+}
+
+
+.getintouchbutton{
+  color: white;
+  font-weight: 500;
+  background-color: rgb(80, 80, 242);
+  border: none;
+}
+
+.brand{
+  width: 20px;
+  height: 20px;
+}
+
 #map {
   width: 100%;
   height: 100%;
